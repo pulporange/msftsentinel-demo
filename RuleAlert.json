@@ -15,7 +15,7 @@
             "apiVersion": "2021-03-01-preview",
             "properties": {
                 "displayName": "Demo Test Analytics Rule",
-                "description": "Demo Forum MSFT",
+                "description": "Demo Forum MSFT 2",
                 "severity": "High",
                 "enabled": true,
                 "query": "SecurityEvent",
