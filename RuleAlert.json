@@ -15,7 +15,7 @@
             "apiVersion": "2021-03-01-preview",
             "properties": {
                 "displayName": "Demo Test Analytics Rule",
-                "description": "Demo Forum MSFT 2",
+                "description": "Demo Forum MSFT GitHub",
                 "severity": "High",
                 "enabled": true,
                 "query": "SecurityEvent",
