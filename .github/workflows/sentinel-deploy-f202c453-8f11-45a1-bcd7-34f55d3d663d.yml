@@ -1,4 +1,4 @@
-name: Deploy Content to law-egyde-sentinel [f202c453-8f11-45a1-bcd7-34f55d3d663d]
+name: Customer XYZ [f202c453-8f11-45a1-bcd7-34f55d3d663d]
 # Note: This workflow will deploy everything in the root directory.
 # To deploy content only from a specific path (for example SentinelContent):
 #   1. Add the target path to the "paths" property like such
