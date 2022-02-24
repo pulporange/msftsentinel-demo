@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "Demo Test Analytics Rule",
+                "displayName": "Demo Test Analytics Rule SOC Egyde",
                 "description": "Demo Forum MSFT Test",
                 "severity": "High",
                 "enabled": true,
